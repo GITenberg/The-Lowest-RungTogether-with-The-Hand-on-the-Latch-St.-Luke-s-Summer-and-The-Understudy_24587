@@ -1,0 +1,29 @@
+_repo: The-Lowest-RungTogether-with-The-Hand-on-the-Latch-St.-Luke-s-Summer-and-The-Understudy_24587
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24587-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cholmondeley, Mary
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '5732'
+    url: http://www.gutenberg.org/2009/agents/5732
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Cholmondeley
+description: ''
+gutenberg_issued: '2008-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+title: 'The Lowest Rung
+
+  Together with The Hand on the Latch, St. Luke''s Summer and The Understudy'
+url: http://www.gutenberg.org/ebooks/24587
