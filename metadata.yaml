@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5732
     wikipedia: http://en.wikipedia.org/wiki/Mary_Cholmondeley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24587#The-Lowest-RungTogether-with-The-Hand-on-the-Latch-St.-Luke-s-Summer-and-The-Understudy
 gutenberg_issued: '2008-02-12'
 gutenberg_type: Text
 identifiers:
